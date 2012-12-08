@@ -1,0 +1,13 @@
+Install Dependencies
+
+TortoiseGit is a simple wrapper around msysgit, 
+which is a Windows port of the git version control system. 
+You'll need to download and install msysgit before installing TortoiseGit. 
+We've written up some quick instructions if you need help or get lost.
+
+Download TortoiseGit
+
+You can download TortoiseGit from their Google Code project page. 
+You want the one tagged with "Featured".
+Make sure you choose 32-bit if you're on a 32-bit Windows install. 
+The version I'm using is 1.6.5; in general, you want to use the latest version available

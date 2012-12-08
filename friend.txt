@@ -1,0 +1,8 @@
+Git is a powerful Source Code Management tool. 
+owever, GIT is not fully supported by Windows. 
+One of the most notable difficulties is that of losing work when porting the Unixy tool to Windows. 
+Another issue is the comparatively slow uploading and downloading of files.
+ 
+Msysgit is one the best packages for compiling GIT for windows. 
+Msysgit is a user friendly tool and is very easy to install compared to its alternatives 
+and the download size is about 8MB. It is well known for being very fast and productive

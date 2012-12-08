@@ -1,0 +1,8 @@
+GIT, the powerful 'Source Code Management ' tool is of great help in computer programming
+and the prime emphasis of this tool is its speed. This tool is developed essentially 
+for Linux kernel development, however when it is imported to faq/windows-102 Windows, ] 
+
+it faces difficulty. The tool loses its efficiency on faq/windows-102 Windows ] and 
+uploading and downloading of the file becomes very slow. 
+To compile GIT on this OS,Msysgit is the best option because of the easy installation procedure 
+and the download size of the file
