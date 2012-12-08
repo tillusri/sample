@@ -1,0 +1,13 @@
+
+A change to note about your upgrade
+
+
+Internet Explorer 9 contains Accelerators, 
+add-ons that let you use web services more quickly and easily. 
+When you click or point to an Accelerator, data might be sent to the web service provider.
+
+ To learn more, read the Internet Explorer 9 privacy statement . 
+
+
+
+
